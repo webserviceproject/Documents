@@ -15,8 +15,11 @@ Team Name: Team 9
 Team Members:
 
 Sahith Vardhan Reddy Vancha: Product Owner
+
 Veeramma Boddapati: Scrum Master
+
 Subramanya Rahul Annavajhula: Development Team
+
 Sai Sushanth Reddy Jonnalagadda: Development Team
 --------------------------------------------------------------------------------------------------------------
 Sprint 1
