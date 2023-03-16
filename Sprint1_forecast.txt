@@ -1,0 +1,15 @@
+The forecast for the first sprint includes:
+- Setup the workspace : 3 points
+- Build the skeleton of the application: 5 points
+- Create the header and routing for all the sub-pages: 5 points
+- Implement the header page: 5 points
+- Implement About the app page: 5 points
+- Implement About Us page: 5 points
+- Implement Contact us page:5 points
+- Write the test cases to all these web pages: 5 points
+
+
+Based on the projected estimates, the first sprint of the project is expected to focus on setting up the workspace and building the skeleton of the application. This includes creating the header and routing for all sub-pages and implementing the header, About the app, About Us, and Contact Us pages, each taking approximately 5 points. Additionally, the team is expected to allocate 5 points toward writing test cases for all web pages. Overall, the first sprint is projected to take a total of 28 points, with the completion of these tasks serving as the foundation for the subsequent sprints of the project. The team will need to work efficiently and effectively to ensure that the project stays on track and is delivered within the agreed-upon timeline.
+
+
+
