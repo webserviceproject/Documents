@@ -1,6 +1,8 @@
 Online Game players matching application
 Live Walkthrough link:
-(https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa%5Fstudents%5Fkennesaw%5Fedu%2FDocuments%2FRecordings%2FCall%20with%20Sahith%20and%202%20others%2D20230315%5F222612%2DMeeting%20Recording%2Emp4&ga=1&OR=Teams-HL&CT=1678940127019&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAyMDUwMTQyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
+
+https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa%5Fstudents%5Fkennesaw%5Fedu%2FDocuments%2FRecordings%2FCall%20with%20Sahith%20and%202%20others%2D20230315%5F222612%2DMeeting%20Recording%2Emp4&ga=1&OR=Teams-HL&CT=1678940127019&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAyMDUwMTQyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D
+
 --------------------------------------------------------------------------------------------------------------
 Code URL
 
@@ -56,22 +58,23 @@ Kanban Board in Jira
 Burndown Chart:
 
 ![Sprint1_burndown](https://user-images.githubusercontent.com/71249872/225513170-72836493-226b-4df0-8ec0-7cc964e122ff.jpg)
---------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------
 Sprint Daily Scrum Call evidence:
 
-(https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa%5Fstudents%5Fkennesaw%5Fedu%2FDocuments%2FRecordings%2FCall%20with%20Sahith%20and%202%20others%2D20230312%5F185356%2DMeeting%20Recording%2Emp4&ga=1&OR=Teams-HL&CT=1678919952411&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAyMDUwMTQyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
---------------------------------------------------------------------------------------------------------------
+https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa%5Fstudents%5Fkennesaw%5Fedu%2FDocuments%2FRecordings%2FCall%20with%20Sahith%20and%202%20others%2D20230312%5F185356%2DMeeting%20Recording%2Emp4&ga=1&OR=Teams-HL&CT=1678919952411&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAyMDUwMTQyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D
 
+--------------------------------------------------------------------------------------------------------------
 Working on the Code evidence:
 
 https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa_students_kennesaw_edu%2FDocuments%2FRecordings%2FCall+with+Sahith+and+2+others-20230312_191557-Meeting+Recording.mp4&ga=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=p2p_ns-bim&web=1
---------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------
 A-TDD Test suite execution evidence:
 
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/71249872/225512373-d6aad2d4-1d7f-4bd5-9856-18520d0c60e9.png)
 https://kennesawedu-my.sharepoint.com/personal/vboddapa_students_kennesaw_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvboddapa_students_kennesaw_edu%2FDocuments%2FRecordings%2FCall+with+Sahith+and+2+others-20230313_222826-Meeting+Recording.mp4&ga=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=p2p_ns-bim&web=1
+
 --------------------------------------------------------------------------------------------------------------
 
 Sprint Review Video
