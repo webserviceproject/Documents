@@ -33,11 +33,17 @@ Forecast and Rationale
 The forecast for the second sprint includes:
 
 -Matchmaking process: 5 points
+
 -Connect to external APIs: 5 points
+
 -Create controller, service and repository layers: 5 points
+
 -Connect backend and frontend: 3 points
+
 -Create skeleton for backend: 3 points
+
 -UI changes to search for best player: 5 points
+
 -Compare player data with search details: 5 points
 
 Based on the details provided, the sprint2 forecast for the project can be estimated. The matchmaking process and connecting to external APIs are crucial tasks, and they are assigned 5 points each. Creating the controller, service, and repository layers is also a significant task and requires careful attention. Therefore, it is assigned 5 points as well. Connecting the backend and frontend and creating a skeleton for the backend are assigned 3 points each as they are important but less complex tasks. Finally, UI changes to search for the best player and comparing player data with search details are essential functionalities, and they are assigned 5 points each. 
