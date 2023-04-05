@@ -25,23 +25,22 @@ Subramanya Rahul Annavajhula: Development Team
 Sai Sushanth Reddy Jonnalagadda: Development Team
 
 --------------------------------------------------------------------------------------------------------------
-Sprint 1
+Sprint 2
 Forecast and Rationale
-The forecast for the first sprint includes:
-- Setup the workspace : 3 points
-- Build the skeleton of the application: 5 points
-- Create the header and routing for all the sub-pages: 5 points
-- Implement the header page: 5 points
-- Implement About the app page: 5 points
-- Implement About Us page: 5 points
-- Implement Contact us page:5 points
-- Write the test cases to all these web pages: 5 points
+The forecast for the second sprint includes:
+*Matchmaking process: 5 points
+*Connect to external APIs: 5 points
+*Create controller, service and repository layers: 5 points
+*Connect backend and frontend: 3 points
+*Create skeleton for backend: 3 points
+*UI changes to search for best player: 5 points
+*Compare player data with search details: 5 points
+
+Based on the details provided, the sprint2 forecast for the project can be estimated. The matchmaking process and connecting to external APIs are crucial tasks, and they are assigned 5 points each. Creating the controller, service, and repository layers is also a significant task and requires careful attention. Therefore, it is assigned 5 points as well. Connecting the backend and frontend and creating a skeleton for the backend are assigned 3 points each as they are important but less complex tasks. Finally, UI changes to search for the best player and comparing player data with search details are essential functionalities, and they are assigned 5 points each. 
+
+By prioritizing these tasks in this way, the team can work effectively towards delivering a functional and optimized system within the given sprint time.
 
 
-Based on the projected estimates, the first sprint of the project is expected to focus on setting up the workspace and building the skeleton of the application. 
-This includes creating the header and routing for all sub-pages and implementing the header, About the app, About Us, and Contact Us pages, each taking approximately 5 points. Additionally, the team is expected to allocate 5 points toward writing test cases for all web pages. 
-Overall, the first sprint is projected to take a total of 38 points, with the completion of these tasks serving as the foundation for the subsequent sprints of the project. 
-The team will need to work efficiently and effectively to ensure that the project stays on track and is delivered within the agreed-upon timeline.
 
 --------------------------------------------------------------------------------------------------------------
 
