@@ -1,0 +1,81 @@
+Continuous Integration and Continuous Deployment 
+
+Introduction: 
+
+Continuous Integration and Continuous Deployment (CI/CD) is an approach that allows developers to automate the software delivery process. This approach involves integrating the code changes frequently and testing the application to ensure that it's functioning correctly. Continuous Deployment is an extension of CI, which automates the deployment process of code changes to production environments. 
+
+Azure is a cloud computing service that offers various tools and services for building, testing, deploying, and managing applications. In this document, we'll cover the steps for implementing CI/CD with Azure. 
+
+Steps for Implementing CI/CD with Azure: 
+
+1) Create a new Azure DevOps project: 
+
+Azure DevOps is a platform that provides tools for planning, developing, testing, and deploying applications. To get started, create a new Azure DevOps project. Follow these steps: 
+
+1) Go to the Azure DevOps portal. 
+
+2) Click on "Create Project." 
+
+3) Enter a name for your project and select the appropriate organization. 
+
+4) Choose a version control system (Git, TFVC). 
+
+5) Click on "Create." 
+
+Set up Continuous Integration: 
+
+Continuous Integration (CI) involves automating the process of building and testing code changes. In Azure DevOps, you can use Azure Pipelines for CI. Follow these steps: 
+
+1) Go to your Azure DevOps project. 
+
+2) Click on "Pipelines" and select "Create Pipeline." 
+
+3) Select your code repository and choose the appropriate pipeline type. 
+
+4) Select your build agent and click on "Continue." 
+
+5) Configure the pipeline settings, such as trigger conditions, build stages, and tasks. 
+
+6) Save the pipeline configuration. 
+
+Set up Continuous Deployment: 
+
+Continuous Deployment (CD) involves automating the process of deploying code changes to production environments. In Azure DevOps, you can use Azure Release Pipelines for CD. Follow these steps: 
+
+1) Go to your Azure DevOps project. 
+
+2) Click on "Releases" and select "Create Release Pipeline." 
+
+3) Select your build pipeline as the artifact source. 
+
+4) Configure the release pipeline settings, such as stages, deployment triggers, and tasks. 
+
+5) Save the release pipeline configuration. 
+
+6) Configure Deployment Environments: 
+
+To deploy code changes to production environments, you need to configure the deployment environments. In Azure DevOps, you can use Azure Environments for this purpose. Follow these steps: 
+
+1) Go to your Azure DevOps project. 
+
+2) Click on "Environments" and select "New Environment." 
+
+3) Enter a name for your environment and select the appropriate resource group. 
+
+4) Choose the appropriate deployment target (Azure Kubernetes Service, Virtual Machines, etc.). 
+
+5) Configure the environment settings, such as variables, security, and approvals. 
+
+6) Save the environment configuration. 
+
+Test and Deploy: 
+
+After configuring the CI/CD pipeline and deployment environment, you can test and deploy your application. Follow these steps: 
+
+1) Make changes to your code and push them to the code repository. 
+
+2) The Azure Pipelines will automatically trigger the build process and create a new build artifact. 
+
+3) The Azure Release Pipelines will automatically trigger the deployment process and deploy the code changes to the production environment. 
+
+4) Monitor the deployment process and verify that the application is functioning correctly. 
