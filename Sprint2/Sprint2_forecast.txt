@@ -1,0 +1,6 @@
+*Matchmaking process: 5 points
+*Connect to external APIs: 5 points
+*Create controller, service and repository layers: 5 points
+*Connect backend and frontend: 3 points
+*Create skeleton for backend: 3 points
+*UI changes to search for best player: 5 points
