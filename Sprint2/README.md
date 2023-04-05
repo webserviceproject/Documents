@@ -68,6 +68,7 @@ Kanban Board in Jira
 
 Burndown Chart:
 
+![image](https://user-images.githubusercontent.com/71249872/229994984-0f431d46-8012-4435-bcce-7b09dc63a5f1.png)
 
 
 --------------------------------------------------------------------------------------------------------------
