@@ -1,0 +1,25 @@
+Sprint 3
+
+Forecast and Rationale
+
+The forecast for the third sprint includes:
+
+-CI Integration: 8 points
+
+-CD Integration: 10 points
+
+-Fix bugs in sprint 2: 11 points
+
+-Jest Unit Testing: 8 points
+
+In software development, sprint planning involves estimating the amount of work that can be completed in a particular timeframe, usually ranging from one to four weeks. In this case, the forecast for the third sprint includes four main tasks with their corresponding estimated points.
+
+The first task is CI (Continuous Integration) Integration, which is estimated at 8 points. Continuous Integration is a software development practice where code changes are frequently integrated into a central repository and then automatically tested and built. The integration process allows for early detection of errors and conflicts in the code, ensuring that the software product is stable and reliable.
+
+The second task is CD (Continuous Deployment) Integration, estimated at 10 points. Continuous Deployment is the next step after Continuous Integration, where the software product is automatically deployed to the production environment after passing all the automated tests. This process ensures that the software is always up to date and that new features or bug fixes are immediately available to users.
+
+The third task is fixing bugs in sprint 2, estimated at 11 points. Bugs are a common occurrence in software development, and it is important to address them promptly to maintain the quality of the product. Fixing bugs in the previous sprint ensures that the software product is stable and reliable, and it also helps to build trust with the users.
+
+The fourth task is Jest Unit Testing, estimated at 8 points. Unit testing is a software testing technique where individual components or modules of the software are tested in isolation from the rest of the system. Jest is a popular JavaScript testing framework that is widely used for unit testing. Writing unit tests helps to identify issues early in the development process and ensures that the software behaves as expected.
+
+In conclusion, the forecast for the third sprint includes four main tasks with a total of 37 estimated points. The tasks focus on improving the quality and reliability of the software product, ensuring that it is stable and ready for deployment.
